@@ -690,6 +690,16 @@ Nix packages for AI coding agents and development tools. Automatically updated d
 ### ACP Ecosystem
 
 <details>
+<summary><strong>acpx</strong> - Headless CLI client for the Agent Client Protocol</summary>
+
+- **Source**: source
+- **License**: MIT
+- **Homepage**: https://github.com/openclaw/acpx
+- **Usage**: `nix run github:numtide/llm-agents.nix#acpx -- --help`
+- **Nix**: [packages/acpx/package.nix](packages/acpx/package.nix)
+
+</details>
+<details>
 <summary><strong>claude-agent-acp</strong> - An ACP-compatible coding agent powered by the Claude Code SDK (TypeScript)</summary>
 
 - **Source**: source
