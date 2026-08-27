@@ -471,6 +471,16 @@ Nix packages for AI coding agents and development tools. Automatically updated d
 
 </details>
 <details>
+<summary><strong>toad</strong> - Terminal UI for working with AI coding agents</summary>
+
+- **Source**: source
+- **License**: AGPL-3.0-or-later
+- **Homepage**: https://github.com/batrachianai/toad
+- **Usage**: `nix run github:numtide/llm-agents.nix#toad -- --help`
+- **Nix**: [packages/toad/package.nix](packages/toad/package.nix)
+
+</details>
+<details>
 <summary><strong>vix</strong> - Sleek, Fast and Token Efficient AI Coding Agent</summary>
 
 - **Source**: source
